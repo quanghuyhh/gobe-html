@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Black.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-900.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-900.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-BlackItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-900i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-900i.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Bold.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-700.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-700.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-BoldItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-700i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-700i.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Extrabold.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-800.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-800.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-ExtraboldItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-800i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-800i.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Extralight.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-200.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-200.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-ExtralightItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-200i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-200i.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Light.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-300.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-300.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-LightItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-300i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-300i.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Medium.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-500.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-500.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-MediumItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-500i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-500i.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Regular.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-400.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-RegularItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-400i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-400i.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Semibold.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-600.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-600.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-SemiboldItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-600i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-600i.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-Thin.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-100.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-100.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PoppinsVN';
+    src: url('/assets/fonts/poppinsvn/PoppinsVN-ThinItalic.ttf') format('truetype'), url('/assets/fonts/poppinsvn/PoppinsVN-100i.woff2') format('woff2'), url('/assets/fonts/poppinsvn/PoppinsVN-100i.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
